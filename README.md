@@ -18,28 +18,28 @@ Answer the following questions for at least one idea:
 
 - Give a brief summary of your idea.
 
-> Your answer here...
+> The pediactric mobility equipment locator is a mobile app designed to assist parents and caregivers in finding and accessing pediactric equipment such as wheelschairs, walkers, shower chairs and more. 
 
 - Who is this product for? Describe the type of person or community this application is for.
 
-> Your answer here...
+> This product is for parents and caregivers of children with mobility impairments.
 
 - What problem does it solve?
 
-> Your answer here...
+> The app addresses the challenge of locating specialized pediatric mobility equipment easily, which parents often struggle to find for their children. 
 
 - Why is this problem important?
 
-> Your answer here...
+> Delayed access to such equipment can result in discomfort, inconvenience, and limitations for both the child and their caregivers.
 
 - How will this application solve the problem?
 
-> Your answer here...
+> The app will have certain features such as Search Funtionality, Location Finder, Inventory Availability, Rental/Purchase Options, Reviews/Ratings along with contact and booking capabilities. 
 
 - What are customers currently doing to solve the problem?
 
-> Your answer here...
+> Currently, parents and caregivers often rely on internet searches, phone calls, or visits to multiple suppliers to find pediatric mobility equipment. This process can be time-consuming, frustrating, and inefficient. At times when no options are available, parents pay out of pocket to have custom equipment made which can get very expensive.
 
 - How does it compare to the alternatives?
 
-> Your answer here...
+> Compared to alternatives like generic equipment search engines or general medical supply stores, the Pediatric Mobility Equipment Locator focuses specifically on the pediatric market. It provides real-time inventory data, user reviews, and a user-friendly interface tailored to the needs of parents and caregivers of children with mobility impairments. 
