@@ -18,28 +18,28 @@ Answer the following questions for at least one idea:
 
 - Give a brief summary of your idea.
 
-> Your answer here...
+Creating a parking app that rewards drivers who wait for incoming communters, informs drivers of any dangers around the area, and allows communters to find parking spots faster in congested neighborhoods.
 
 - Who is this product for? Describe the type of person or community this application is for.
 
-> Your answer here...
+This app is for all drivers who live in busy inner city neighborgoods.
 
 - What problem does it solve?
 
-> Your answer here...
+It solves the cat and mouse chase drivers go through when looking for parking spots. You can spend hours looking for parking depending on where you live.
 
 - Why is this problem important?
 
-> Your answer here...
+I'm a driver who experienced this all to well. I remember be so frustrated that I didn't want to drive anymore at a certain point.
 
 - How will this application solve the problem?
 
-> Your answer here...
+This application will provide expedient parking spots while drivers are heading to their location.
 
 - What are customers currently doing to solve the problem?
 
-> Your answer here...
+Customers are car pooling, taking public transportation, or just sticking to their parking routine.
 
 - How does it compare to the alternatives?
 
-> Your answer here...
+It makes driving feel like a privilege instead of a chore.
