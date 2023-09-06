@@ -18,28 +18,28 @@ Answer the following questions for at least one idea:
 
 - Give a brief summary of your idea.
 
-> Your answer here...
+> The idea I had was to update PetHealthPro. PetHealth Pro is a comprehensive mobile application designed to streamline and enhance the healthcare management of pets. It serves as a one-stop solution for pet owners, veterinarians, and animal healthcare professionals, offering a range of features and tools to improve the overall well-being of animals.
 
 - Who is this product for? Describe the type of person or community this application is for.
 
-> Your answer here...
+> It is primarily designed for pet owners, including dog and cat owners, as well as those who own exotic pets. It is also valuable for veterinarians, veterinary clinics, animal shelters, and pet caregivers.
 
 - What problem does it solve?
 
-> Your answer here...
+> It can help solve difficulty in tracking & scheduling vet appointments as well as managing medication & treatment plans for pets. 
 
 - Why is this problem important?
 
-> Your answer here...
+> Access to organized health records, timely veterinary care, and reliable information can significantly impact the quality a pet's life. Users can set medication schedules and receive reminders for their pets' medications.
 
 - How will this application solve the problem?
 
-> Your answer here...
+> Pet owners can schedule vet appointments, receive reminders, and communicate directly with veterinarians through the app.
 
 - What are customers currently doing to solve the problem?
 
-> Your answer here...
+> Currently, pet owners often rely on paper records, memory, or fragmented digital solutions to manage their pets' healthcare. 
 
 - How does it compare to the alternatives?
 
-> Your answer here...
+> While some existing apps may focus on one aspect of pet healthcare,(e.g., appointments or pet records), PetHealth Pro combines all these functionalities into a single, user-friendly platform. 
